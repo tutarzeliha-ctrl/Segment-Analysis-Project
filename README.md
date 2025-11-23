@@ -1,5 +1,3 @@
-![Visitor Count](https://komarev.com/ghpvc/?username=tutarzeliha-ctrl&color=blue)
-
 # 📊 Segment Analysis Project  
 ### Behavioral & Price-Based Sales Segmentation  
 (Türkçe & English)
@@ -27,4 +25,5 @@ This project analyzes product performance using Price, Sales, Stock, and Campaig
 ...
 # 🎯 Summary (EN/TR)
 ...
+![Visitor Count](https://komarev.com/ghpvc/?username=tutarzeliha-ctrl&color=blue)
 
